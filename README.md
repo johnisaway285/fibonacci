@@ -8,4 +8,10 @@ To use it, you need to have python installed, so first question to ask yourself:
 
 In your command prompt:
 
-Type 'python fibonacci.py'
+Type `python fibonacci.py`
+
+My program will ask you:
+
+> Please enter the number for n:
+
+Enter the index number of your fibonacci sequence.
