@@ -14,4 +14,4 @@ My program will ask you:
 
 > Please enter the number for n:
 
-Enter the index number of your fibonacci sequence.
+Enter the index number of your fibonacci sequence and you are all set.
